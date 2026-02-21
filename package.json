@@ -1,0 +1,7 @@
+{
+  "name": "sprites-integration-test",
+  "private": true,
+  "scripts": {
+    "start": "bun run server.ts"
+  }
+}
